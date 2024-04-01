@@ -1,5 +1,5 @@
 
-/*-----------------------------Implementation of stack using linked list-----------------------------------*/
+/*----------------------------------Implementation of stack using linked list-----------------------------------*/
 
 #include <bits/stdc++.h>
 using namespace std;
