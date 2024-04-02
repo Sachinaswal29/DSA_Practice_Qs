@@ -1,4 +1,4 @@
-/*----------------------------Implementation of stack using array---------------------------------------*/
+/*-------------------------------Implementation of stack using array---------------------------------------*/
 
 #include <bits/stdc++.h>
 using namespace std;
