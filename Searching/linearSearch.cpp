@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void printArray(int a[], int n)
+void printArray(int *a, int n)
 {
     for (int i = 0; i < n; i++)
     {
